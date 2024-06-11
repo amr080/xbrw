@@ -1,0 +1,1 @@
+$('.dailyPrice-fundButton').show();

@@ -1,0 +1,637 @@
+
+<!doctype html>
+<html lang="en">
+    <head data-currentpage="resources/saba-income-opportunities-fund-ii" data-ticker="resources.php">
+
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="google" value="notranslate">
+<meta name="google-site-verification" content="qlyPfX61nUeCDOwDkUAqRm_hnsu9MwA-xu6W6xYEzK8" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R63NC4HLRR"></script>
+<meta name="description" content="The Saba Capital Income & Opportunities Fund Ticker: BRW" />
+<meta name="keywords" content="BRW, Saba, SabaCEF, Capital Income, Opportunities Fund, Saba Capital Income & Opportunities Fund" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WKKM695');</script>
+<!-- End Google Tag Manager -->
+
+<title>Saba Capital Income & Opportunities Fund II - Resources</title>
+<base href="https://www.sabacef.com/site-template/" /><!--[if lte IE 6]></base><![endif]-->
+
+
+<link rel="stylesheet" href="css/main.css">
+
+<!-- preload fonts on the CDN-->
+
+<!-- connect to domain of font files -->
+<link rel="preconnect" rel="dns-prefetch" href="https://fonts.gstatic.com" crossorigin="anonymous">
+<link rel="preconnect" rel="dns-prefetch" href="https://use.typekit.net" crossorigin="anonymous">
+
+
+<!-- optionally increase loading priority -->
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap">
+
+<link rel="preload" as="style" href="https://use.typekit.net/ald8rnn.css">
+
+<!-- async CSS -->
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap">
+
+
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://use.typekit.net/ald8rnn.css">
+
+
+<!-- no-JS fallback -->
+<noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet" type="text/css" />
+
+    <link href="https://use.typekit.net/ald8rnn.css" rel="stylesheet" type="text/css" />
+</noscript>
+
+
+
+<!-- favicon generated using realfavicongenerator.net -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="assets/favicon/manifest.json" crossorigin="use-credentials">
+<link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#72b4a0">
+<link rel="shortcut icon" href="assets/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content="assets/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">	
+    </head>
+
+    <body>
+
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKKM695"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+      <header id="mainHeader">
+        <!--  MAIN NAV  -->
+
+
+<div class="full-width" id="navamongus">
+
+	<!--  NAV  -->
+
+	<div class="nav_container">
+
+		<a href="../" class="site-logo" tabindex="0">
+			<img src="assets/images/logo-inverted.svg" width="300" height="54" alt="Saba Capital">
+		</a>
+
+		<ul id="main-nav">
+			<li class="main-nav-item">
+				<a tabindex="0" class="noclick">The Funds</a>
+				<div class="main-nav-dropdown">
+					<ul id="product-list"></ul>
+				</div>
+			</li>
+			<li>
+				<a href="https://www.sabacapital.com" target="_blank">The Adviser</a>
+			</li>
+			<li class="main-nav-item">
+				<a tabindex="0" class="noclick">Resources</a>
+				<div class="main-nav-dropdown">
+					<ul id="resource-list"></ul>
+				</div>
+			</li>
+			<li class="main-nav-item">
+				<a tabindex="0" class="noclick">Contact Us</a>
+				<div class="main-nav-dropdown">
+					<ul id="contact-list"></ul>
+				</div>
+			</li>
+		</ul>
+
+	</div>
+
+	<mobileNavButton aria-label="Menu" tabindex="0"></mobileNavButton>
+</div>      </header>
+      
+      <main id="mainContent">
+
+        <div class="main_content">
+
+                    <link rel="preload" href="css/resources.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<link rel="prefetch" as="image" href="assets/images/hero-fund.jpg">
+<link rel="prefetch" as="image" href="assets/images/hero-fund-2.jpg">
+
+<div class="hero-short hero-short__img-1">
+	<div grid="3" id="dailyprice-table__container"></div>
+	<div class="subnav__wrapper">
+	<div class="container">
+		<!-- mobile subnav replaces product dropdown -->
+<div class="select clearfix dropdown--mobile">	
+	<div class="styledSelectMobile" tabindex="0" aria-haspopup="listbox">Education</div>
+	<ul id="hiddenFundDropdown" class="options dropdownFund subnav--mobile" role="listbox">
+		<li rel="#education" role="option" tabindex="0">Education</li>
+		<li rel="#fund-news" role="option" tabindex="0">Fund News</li>
+		<li rel="#regulatory" role="option" tabindex="0">Regulatory</li>
+		<li rel="#section19a" role="option" tabindex="0">Section 19a Notices</li>
+	</ul>
+</div>
+
+		<div class="subnav-column">
+
+			<ul class="subnav">
+
+				<li class="subnav__item subnav__education active">
+					<a href="#education" class="subnav__link">Education</a>
+				</li>
+				<li class="subnav__item subnav__fund-news">
+					<a href="#fund-news" class="subnav__link">Fund News</a>
+				</li>
+				<li class="subnav__item subnav__regulatory">
+					<a href="#regulatory" class="subnav__link">Regulatory</a>
+				</li>
+				<li class="subnav__item subnav__section19a">
+					<a href="#section19a" class="subnav__link">Section 19a Notices</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+</div></div>
+
+<div class="container first-content clearfix">
+	<div class="row">
+		<div class="col span_1_of_3">
+			<h3>Fund Data</h3>
+			<table class="table--mod-1">
+				<tbody>
+					<tr>
+						<td>
+							<div class="fund-docs">
+								<a href="/#overview" data-prependfundname="href" class="fund-docs__icon--fund-data" data-key="documentname">Overview</a>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div class="fund-docs">
+								<a href="/#performance" data-prependfundname="href" class="fund-docs__icon--fund-data" data-key="documentname">Performance</a>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div class="fund-docs">
+								<a href="/#portfolio" data-prependfundname="href" class="fund-docs__icon--fund-data" data-key="documentname">Portfolio</a>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div class="fund-docs">
+								<a href="/#distributions" data-prependfundname="href" class="fund-docs__icon--fund-data" data-key="documentname">Distributions</a>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<div class="col span_2_of_3 float-right">
+
+			<div id="education" class="waypoint__subnav"></div>
+			<h3 class="underline">Education</h3>
+			<div grid="1" data-location="thisFundArray[0]" data-type="fs" data-dateformat="abbre">
+				<div class="nogridstack">
+					<strong data-key="date"></strong>
+					<a href="" data-key="documentname">
+						<h4 class="news__headline" data-key="title"></h4>
+					</a>
+				</div>
+			</div>
+			<div grid="1" data-location="thisFundArray[0]" data-type="comm" data-dateformat="abbre">
+				<div class="nogridstack">
+					<strong data-key="date"></strong>
+					<a href="" data-key="documentname">
+						<h4 class="news__headline" data-key="title"></h4>
+					</a>
+				</div>
+			</div>
+			<div id="noedu">No educational documents available at this time.</div>
+		</div>
+		<div class="col span_2_of_3 float-right margin-bottom-0">
+			<div id="fund-news" class="waypoint__subnav"></div>
+			<div class="dropdown__container-news">
+			<h3 class="fund-news-heading underline full-width dropdown__title">Fund News</h3>
+			
+			<div class="dropdown__select-news">
+				<select id='newsYear' class="dropdown styled-select style-inline" title="Select a Year">
+					<option value="init" disabled="disabled" selected selected="selected">SELECT A YEAR</option>
+				</select>
+			</div>
+
+		</div>
+
+		<rule></rule>
+
+			<div id="fundNews" grid="1" data-location="thisFundArray[0]" data-type="pr" data-dateformat="abbre" data-sortorder="dateasc">
+				<div class="news-record nogridstack" data-clone="true">
+					<strong data-key="date" class="news__date"></strong>
+					<a href="" class="news__read-more" data-key="documentname">
+						<h4 class="news__headline" data-key="title"></h4>
+					</a>
+				</div>
+			</div>
+
+			<div class="nofundnews">No press releases available at this time.</div>
+
+		</div>
+
+		<div class="col span_2_of_3 float-right">
+			<div id="regulatory" class="waypoint__subnav"></div>
+			<h3 class="underline">Regulatory</h3>
+			<ul grid="2" class="fund-docs__regulatory">
+				<li data-location='thisFundArray[0]' data-type='pro' data-id="pro-stat--reg" data-tag="statutory"><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='ar'><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='sar'><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='sai'><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='qr' data-clone="true"><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='n-q' data-clone="true"><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='proxy' data-id="proxy--regulatory"><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='n-px'><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='is' data-clone="true"><a data-key="documentname"><span data-key='title'></span></a></li>
+				<li data-location='thisFundArray[0]' data-type='chtr'><a data-key="documentname"><span data-key='title'></span></a></li>
+			</ul>
+			<div id="noreg">No regulatory documents available at this time.</div>
+		</div>
+
+
+		<div class="col span_2_of_3 float-right margin-bottom-80">
+			<div id="section19a" class="waypoint__subnav"></div>
+			<div class="dropdown__container-news">
+				<h3 class="underline full-width dropdown__title">Section 19a Notices</h3>
+
+				<div class="dropdown__select-news">
+					<select id='s19Year' data-scroll='true' class="dropdown styled-select style-inline" title="Select a Year">
+						<option value="init" disabled="disabled" selected selected="selected">SELECT A YEAR</option>
+					</select>
+				</div>
+			</div>
+
+			<rule></rule>
+
+			<div grid="1" data-location="thisFundArray[0]" data-type="taxst" class="margin-bottom-20">
+				<div class="news-record nogridstack">
+					<a href="" class="news__read-more" data-key="documentname">
+						<h4 class="news__headline" data-key="title"></h4>
+					</a>
+				</div>
+			</div>
+
+			<div id="fundS19" grid="1" data-location="thisFundArray[0]" data-type="8937,s19" data-sortorder="typeanddate">
+				<div class="news-record nogridstack" data-clone="true">
+					<a href="" class="news__read-more" data-key="documentname">
+						<h4 class="news__headline" data-key="title"></h4>
+					</a>
+				</div>
+			</div>
+
+			<div class="noS19s">No Section 19a Notices available at this time.</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="assets/javascript/jquery-3.1.1.min.js"></script>
+<script defer src="assets/javascript/jquery.waypoints.min.js"></script>
+<script defer src="assets/javascript/moment.min.js"></script>
+<script defer src="assets/javascript/api_key.php"></script>
+<script defer src="assets/javascript/api_INIT-v1.2.2.min.js"></script>
+<script defer src="assets/javascript/fund_map.js"></script>
+<script defer src="assets/javascript/utilities.js"></script>
+<script defer src="assets/javascript/settings__head.js"></script><div id="tinyTitle">cont</div>
+
+<ul id="tinyNav">
+	<li id="tinyNav_backtotop" cont="Back to Top"><img src="assets/images/arrow-right.svg" tabindex="0" alt="Back to Top" /></li>
+</ul>
+<script defer src="assets/javascript/waypoints-subnavs.js"></script>
+<script defer type="text/javascript" src="assets/javascript/settings__hero.js"></script>
+<script defer type="text/javascript" src="assets/javascript/settings__dropdown--resources.js"></script>
+<script defer type="text/javascript" src="assets/javascript/settings__tinyNav.js"></script>
+<script defer type="text/javascript" src="assets/javascript/settings__select-field.js"></script>       
+        </div>
+
+      </main>
+      
+      <footer id="mainFooter">
+
+    <div class="footer-nav">
+        <div class="container clearfix">
+            <div grid="7-8">
+                <div>
+                    <div class="flex-grid">
+                        <ul id="footer-links" class="col">
+                            <li><a href="https://www.sabacapital.com" target="_blank">THE ADVISER</a></li>
+                            <li><a href="../resources/" data-appendfundname="href">RESOURCES</a></li>
+                            <li><a href="../definitions">DEFINITIONS</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <div class="social__wrapper">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <spacer></spacer>
+
+    <div class="container">
+        <div id="disclosures-brw" class="disclosure">
+            <p class="margin-top-30"><strong>Saba Capital Income & Opportunities Fund</strong></p>
+
+            <p><sup class="disclosures-resources">1</sup>Shares are bought and sold at market price, not net asset value (NAV), and are not individually redeemed from the fund. Market performance is determined using the bid/ask midpoint at 4:00 p.m. Eastern time when the NAV is typically calculated. Brokerage commissions will reduce returns.</p>
+
+            <p><sup class="disclosures-resources">2</sup>The Current Distribution Amount represents the amount approved by the Board of the Fund as part of a managed distribution plan.  As part of the managed distribution plan, the Fund will make monthly distributions to shareholders at a fixed amount of <span class="distributionFootnote-BRW"></span> per share. Thus, the distribution amount shown excludes special dividends (which are not paid pursuant to the plan), including the special dividend paid during the current fiscal period in January 2024. The Fund will generally distribute amounts necessary to satisfy the Fund’s plan and the requirements prescribed by excise tax rules and Subchapter M of the Internal Revenue Code. The plan is intended to provide shareholders with a constant, but not guaranteed, fixed minimum rate of distribution each month and is intended to narrow the discount between the market price and the net asset value of the Fund’s common shares, but there is no assurance that the plan will be successful in doing so.</p>
+
+            <p class="disclosures-resources"><sup>10</sup>The Current Annualized Distribution Rate is the dollar value of distributions for the current fiscal period November 1, 2023 through <span class="asofdateASNNAV--BRW"></span> (which includes the special dividend paid during the current fiscal period in January 2024) annualized as a percentage of the Fund’s NAV as of <span class="asofdateASNNAV--BRW"></span>. The distribution rate shown is not constant as the Fund’s NAV fluctuates regularly. In addition, the level of distribution amount shown is not guaranteed and special dividends may not be paid in the future.  Further, no conclusions should be drawn about the Fund’s investment performance from the amount or rate of distribution shown. A portion of the Fund’s distribution to shareholders may be a return of capital which should not be confused with “yield” or “income.” Please see the Fund’s most-recent Section 19a Notice press release found in the “Section 19a Notice” section of this website. <strong>Past Performance is No Assurance of Future Results.</strong></p>
+
+            <p>Yield figures quoted should not be used as an indication of the income that has or will be received. Yield figures are based on the portfolio's underlying holdings and do not represent a payout of the portfolio.</p>
+
+            <p>Effective after the close of business on June 4, 2021, the Voya Prime Rate Trust, previously managed by Voya Financial, became the Saba Capital Income & Opportunities Fund and Saba Capital Management, L.P. became the fund’s new investment adviser. The Fund’s name, investment adviser, and investment program have changed.</p>
+
+            <p>Shareholders of the Fund approved the following changes to the Fund’s investment program at a special shareholder meeting on May 21, 2021:</p>
+            <ul class="list-disc">
+                <li>To approve the New Investment Management Agreement between the Fund and Saba Capital Management, L.P.</li>
+                <li>To remove the Fund’s fundamental investment restriction relating to investing in warrants</li>
+                <li>To remove the Fund’s fundamental investment restriction relating to purchasing or selling equity securities, engaging in short-selling and the use of certain option arrangements</li>
+                <li>To remove the Fund’s fundamental investment restriction relating to investing in other investment companies</li>
+                <li>To approve changing the Fund’s sub-classification under the Investment Company Act of 1940 from “diversified” to “non-diversified”</li>
+                <li>To approve a change of the Fund’s investment objective and to make the investment objective non-fundamental</li>
+            </ul>
+
+            <p>On May 20, 2022, the Fund completed a reverse stock split (the “Reverse Split”) of its common shares at a ratio of 1-for-2. In connection with the Reverse Split, every two shares of the Fund’s issued and outstanding common shares were converted into one single common share. Any less than whole shares that would be held by a shareholder after effecting the Reverse Split were then issued in fractional form. The Fund’s common shares continue to trade on the New York Stock Exchange under the symbol “BRW” and have a new CUSIP (78518H202). The Reverse Split reduced the number of the Fund’s authorized common shares from 85,058,986 shares to 42,529,493 shares.</p>
+
+            <p class="margin-top-30"><strong>Important Risk Information</strong></p>
+
+            <p>Carefully consider the Fund’s investment objectives, risk factors, charges and expenses before investing. </p>
+
+            <p><b>The Closed-End Funds are not sold or distributed.</b> Unlike open-end funds, shares are not continually offered. Like other public companies, closed-end funds have a one-time initial public offering, and once their shares are first issued, are generally bought and sold through non-affiliated broker/dealers and trade on nationally recognized stock exchanges. Share prices will fluctuate with market conditions and, at the time of sale, may be worth more or less than your original investment. Shares of exchange-traded closed-end funds may trade at a discount or premium to their original offering price, and often trade at a discount to their net asset value. Investment return, market price and net asset value will fluctuate with changes in market conditions.</p>
+
+            <p>Investing involves risk, including possible loss of principal. Past performance is not indicative or a guarantee of future results.</p>
+
+            <p>All investing involves risks of fluctuating prices and the uncertainties of rates of return and yield inherent in investing. The fund invests primarily in credit instruments that carry a risk that borrowers may default in the timely payment of principal and interest on their debt, which would likely cause the value of the Fund’s Common Shares to decrease. Changes in short-term market interest rates will directly affect the yield on the Fund’s Common Shares. If such rates fall, the Fund’s yield will also fall. If interest rate spreads on the Fund’s credit investments decline in general, the yield on the Fund’s credit investments will fall and the value of the Fund’s credit investments may decrease. When short-term market interest rates rise, because of the lag between changes in such short term rates and the resetting of the floating rates on credit investments in the Fund’s portfolio, the impact of rising rates will be delayed to the extent of such lag. Because of the limited secondary market for a portion of the Fund’s investments, the Fund’s ability to sell some assets in a timely fashion and/or at a favorable price may be limited. An increase in the demand for credit investments may adversely affect the rate of interest payable on new credit investments acquired by the Fund, and it may also increase the price of credit investments purchased by the Fund in the secondary market. A decrease in the demand for credit investments may adversely affect the price of such investments in the Fund’s portfolio, which would cause the Fund’s NAV to decrease. The Fund’s use of leverage through borrowings can adversely affect the yield on the Fund’s Common Shares. Investment in foreign borrowers involves special risks, including potentially less rigorous accounting requirements, differing legal systems and potential political, social and economic adversity. The Fund may engage in currency exchange transactions that seeks to hedge some or all of the economic impact to the Fund arising from foreign currency fluctuations.</p>
+
+            <p>Investments in foreign securities may involve risks such as social and political instability, market illiquidity, exchange-rate fluctuations, a high level of volatility and limited regulation. Leverage may increase the risk of loss and cause fluctuations in the market value of the Fund’s portfolio to have disproportionately large effects or cause the NAV of the Fund generally to decline faster than it would otherwise. Derivatives may be more sensitive to changes in market conditions, amplifying risks. A liquid market may not exist for derivatives held by the Fund. High-yield bonds have a higher risk of default or other adverse credit events, but have the potential to pay higher earnings over investment grade bonds. The higher risk of default, or the inability of the creditor to repay its debt, is the primary reason for the higher interest rates on high-yield bonds. The Fund intends to be non-diversified and may be subject to concentration risk and outsized market risk within the industries that it invests.</p>
+
+            <p>Saba Capital Management, L.P. has been registered as an investment adviser under the Investment Advisers Act of 1940 since August 6, 2010</p>
+
+            <p><b>Investors should carefully consider the investment objectives, risks, charges and expenses of the fund. This and other important information about the Fund, such as information about the Fund’s updated investment program and principal risk factors, is contained in the definitive proxy statement, risk supplement, prospectus and statement of additional information. These documents should be read carefully before investing.</b></p>
+
+            <p>Reports and other information about the funds are available on the EDGAR Database on the SEC's Internet site at <a href="https://www.sec.gov/" target="_blank">www.sec.gov</a>.</p>
+
+            <p>©2024 SABA CAPITAL MANAGEMENT, L.P. All rights reserved.</p>
+        </div>
+        <div id="disclosures-saba" class="disclosure">
+
+            <p class="margin-top-30"><strong>Saba Capital Income & Opportunities Fund II</strong></p>
+
+            <p><sup class="disclosures-resources">1</sup>Shares are bought and sold at market price, not net asset value (NAV), and are not individually redeemed from the fund. Market performance is determined using the bid/ask midpoint at 4:00 p.m. Eastern time when the NAV is typically calculated. Brokerage commissions will reduce returns.</p>
+
+            <p><sup class="disclosures-resources">2</sup>The Current Distribution Amount represents the amount approved by the Board of the Fund as part of a managed distribution plan. As part of the managed distribution plan, the Fund will make monthly distributions to shareholders at a fixed amount of <span class="distributionFootnote-SABA"></span> per share. Thus, the distribution amount shown excludes special dividends (which are not paid pursuant to the plan), including the special dividend paid during the current fiscal period in December 2023. The Fund will generally distribute amounts necessary to satisfy the Fund’s plan and the requirements prescribed by excise tax rules and Subchapter M of the Internal Revenue Code. The plan is intended to provide shareholders with a constant, but not guaranteed, fixed minimum rate of distribution each month and is intended to narrow the discount between the market price and the net asset value of the Fund’s common shares, but there is no assurance that the plan will be successful in doing so.</p>
+
+            <p class="disclosures-resources"><sup>10</sup>The Current Annualized Distribution Rate is the dollar value of distributions for the current fiscal period November 1, 2023 through <span class="asofdateASNNAV--SABA"></span> (which includes the special dividend paid during the current fiscal period in December 2023) annualized as a percentage of the Fund’s NAV as of <span class="asofdateASNNAV--SABA"></span>. The distribution rate shown is not constant as the Fund’s NAV fluctuates regularly. In addition, the level of distribution amount shown is not guaranteed and special dividends may not be paid in the future.  Further, no conclusions should be drawn about the Fund’s investment performance from the amount or rate of distribution shown. A portion of the Fund’s distribution to shareholders may be a return of capital which should not be confused with “yield” or “income.” Please see the Fund’s most-recent Section 19a Notice press release found in the “Section 19a Notice” section of this website. <strong>Past Performance is No Assurance of Future Results.</strong></p>
+
+            <p id="yieldFootnote-SABA">Yield figures quoted should not be used as an indication of the income that has or will be received. Yield figures are based on the portfolio's underlying holdings and do not represent a payout of the portfolio.</p>
+
+            <p>Effective after the close of business on December 31, 2023, the Templeton Global Income Fund, previously managed by Franklin Templeton Advisers, Inc., became the Saba Capital Income & Opportunities Fund II (“Saba”) and Saba Capital Management, L.P. became the fund’s new investment adviser. The Fund’s name, investment adviser, and investment program changed.</p>
+
+            <p>Shareholders of the Fund approved the following changes to the Fund’s investment program at a special shareholder meeting on October 25, 2023:</p>
+            <ul class="list-disc">
+                <li>To approve the New Investment Management Agreement between the Fund and Saba Capital Management, L.P.</li>
+                <li>To approve making the Fund’s investment objective "non-fundamental" to provide the Fund with greater investment flexibility.</li>
+                <li>The removal of the Fund’s fundamental policy mandating that at least 65% of the Fund’s total assets be invested in at least three countries and in various types of debt instruments.</li>
+            </ul>
+
+            <p class="margin-top-30"><strong>Important Risk Information</strong></p>
+
+            <p>Carefully consider the Fund’s investment objectives, risk factors, charges and expenses before investing. </p>
+
+            <p><b>The Closed-End Funds are not sold or distributed.</b> Unlike open-end funds, shares are not continually offered. Like other public companies, closed-end funds have a one-time initial public offering, and once their shares are first issued, are generally bought and sold through non-affiliated broker/dealers and trade on nationally recognized stock exchanges. Share prices will fluctuate with market conditions and, at the time of sale, may be worth more or less than your original investment. Shares of exchange-traded closed-end funds may trade at a discount or premium to their original offering price, and often trade at a discount to their net asset value. Investment return, market price and net asset value will fluctuate with changes in market conditions.</p>
+
+            <p>Investing involves risk, including possible loss of principal. Past performance is not indicative or a guarantee of future results.</p>
+
+            <p>All investing involves risks of fluctuating prices and the uncertainties of rates of return and yield inherent in investing. The fund invests primarily in credit instruments that carry a risk that borrowers may default in the timely payment of principal and interest on their debt, which would likely cause the value of the Fund’s Common Shares to decrease. Changes in short-term market interest rates will directly affect the yield on the Fund’s Common Shares. If such rates fall, the Fund’s yield will also fall. If interest rate spreads on the Fund’s credit investments decline in general, the yield on the Fund’s credit investments will fall and the value of the Fund’s credit investments may decrease. When short-term market interest rates rise, because of the lag between changes in such short term rates and the resetting of the floating rates on credit investments in the Fund’s portfolio, the impact of rising rates will be delayed to the extent of such lag. Because of the limited secondary market for a portion of the Fund’s investments, the Fund’s ability to sell some assets in a timely fashion and/or at a favorable price may be limited. An increase in the demand for credit investments may adversely affect the rate of interest payable on new credit investments acquired by the Fund, and it may also increase the price of credit investments purchased by the Fund in the secondary market. A decrease in the demand for credit investments may adversely affect the price of such investments in the Fund’s portfolio, which would cause the Fund’s NAV to decrease. The Fund may engage in currency exchange transactions that seeks to hedge some or all of the economic impact to the Fund arising from foreign currency fluctuations.</p>
+
+            <p>Investments in foreign securities may involve risks such as social and political instability, market illiquidity, exchange-rate fluctuations, a high level of volatility and limited regulation. Leverage inherent in derivatives may increase the risk of loss and cause fluctuations in the market value of the Fund’s portfolio to have disproportionately large effects or cause the NAV of the Fund generally to decline faster than it would otherwise. Derivatives may be more sensitive to changes in market conditions, amplifying risks. A liquid market may not exist for derivatives held by the Fund. High-yield bonds have a higher risk of default or other adverse credit events, but have the potential to pay higher earnings over investment grade bonds. The higher risk of default, or the inability of the creditor to repay its debt, is the primary reason for the higher interest rates on high-yield bonds. The Fund intends to be non-diversified and may be subject to concentration risk and outsized market risk within the industries that it invests.</p>
+
+            <p>Saba Capital Management, L.P. has been registered as an investment adviser under the Investment Advisers Act of 1940 since August 6, 2010</p>
+
+            <p><b>Investors should carefully consider the investment objectives, risks, charges and expenses of the fund. This and other important information about the Fund, such as information about the Fund’s updated investment program and principal risk factors, is contained in the definitive proxy statement, risk supplement, prospectus and statement of additional information. These documents should be read carefully before investing.</b></p>
+
+            <p>Reports and other information about the funds are available on the EDGAR Database on the SEC's Internet site at <a href="https://www.sec.gov/" target="_blank">www.sec.gov</a>.</p>
+
+            <p>©2024 SABA CAPITAL MANAGEMENT, L.P. All rights reserved.</p>
+        </div>
+        <div id="disclosures-combined" class="disclosure">
+            <p><strong>Saba Capital Income & Opportunities Fund</strong></p>
+
+            <p><sup>1</sup>Effective after the close of business on June 4, 2021, the Voya Prime Rate Trust, previously managed by Voya Financial, became the Saba Capital Income & Opportunities Fund and Saba Capital Management, L.P. became the fund’s new investment adviser. The Fund’s name, investment adviser, and investment program changed.</p>
+
+            <p>Shareholders of the Fund approved the following changes to the Fund’s investment program at a special shareholder meeting on May 21, 2021:</p>
+            <ul class="list-disc">
+                <li>To approve the New Investment Management Agreement between the Fund and Saba Capital Management, L.P.</li>
+                <li>To remove the Fund’s fundamental investment restriction relating to investing in warrants</li>
+                <li>To remove the Fund’s fundamental investment restriction relating to purchasing or selling equity securities, engaging in short-selling and the use of certain option arrangements</li>
+                <li>To remove the Fund’s fundamental investment restriction relating to investing in other investment companies</li>
+                <li>To approve changing the Fund’s sub-classification under the Investment Company Act of 1940 from “diversified” to “non-diversified”</li>
+                <li>To approve a change of the Fund’s investment objective and to make the investment objective non-fundamental</li>
+            </ul>
+
+            <p>On May 20, 2022, the Fund completed a reverse stock split (the “Reverse Split”) of its common shares at a ratio of 1-for-2. In connection with the Reverse Split, every two shares of the Fund’s issued and outstanding common shares were converted into one single common share. Any less than whole shares that would be held by a shareholder after effecting the Reverse Split were then issued in fractional form. The Fund’s common shares continue to trade on the New York Stock Exchange under the symbol “BRW” and have a new CUSIP (78518H202). The Reverse Split reduced the number of the Fund’s authorized common shares from 85,058,986 shares to 42,529,493 shares.</p>
+
+            <p><sup>2</sup>Shares are bought and sold at market price, not net asset value (NAV), and are not individually redeemed from the fund. Market performance is determined using the bid/ask midpoint at 4:00 p.m. Eastern time when the NAV is typically calculated. Brokerage commissions will reduce returns.</p>
+
+            <p><sup>3</sup>The Current Distribution Amount represents the amount approved by the Board of the Fund as part of a managed distribution plan.  As part of the managed distribution plan, the Fund will make monthly distributions to shareholders at a fixed amount of <span class="distributionFootnote-BRW">-</span> per share. Thus, the distribution amount shown excludes special dividends (which are not paid pursuant to the plan), including the special dividend paid during the current fiscal period in January 2024. The Fund will generally distribute amounts necessary to satisfy the Fund’s plan and the requirements prescribed by excise tax rules and Subchapter M of the Internal Revenue Code. The plan is intended to provide shareholders with a constant, but not guaranteed, fixed minimum rate of distribution each month and is intended to narrow the discount between the market price and the net asset value of the Fund’s common shares, but there is no assurance that the plan will be successful in doing so.</p>
+
+            <p>Yield figures quoted should not be used as an indication of the income that has or will be received. Yield figures are based on the portfolio's underlying holdings and do not represent a payout of the portfolio.</p>
+
+            <p><sup>4</sup>The Current Annualized Distribution Rate is the dollar value of distributions for the current fiscal period November 1, 2023 through <span class="asofdateASNNAV--BRW"></span> (which includes the special dividend paid during the current fiscal period in January 2024) annualized as a percentage of the Fund’s NAV as of <span class="asofdateASNNAV--BRW"></span>. The distribution rate shown is not constant as the Fund’s NAV fluctuates regularly. In addition, the level of distribution amount shown is not guaranteed and special dividends may not be paid in the future.  Further, no conclusions should be drawn about the Fund’s investment performance from the amount or rate of distribution shown. A portion of the Fund’s distribution to shareholders may be a return of capital which should not be confused with “yield” or “income.” Please see the Fund’s most-recent Section 19a Notice press release found in the “Section 19a Notice” section of this website. <strong>Past Performance is No Assurance of Future Results.</strong></p>
+
+            <p class="margin-top-30"><strong>Saba Capital Income & Opportunities Fund II</strong></p>
+
+            <p><sup>5</sup>Effective after the close of business on December 31, 2023, the Templeton Global Income Fund, previously managed by Franklin Templeton Advisers, Inc., became the Saba Capital Income & Opportunities Fund II (“Saba”) and Saba Capital Management, L.P. became the fund’s new investment adviser. The Fund’s name, investment adviser, and investment program changed.</p>
+
+            <p>Shareholders of the Fund approved the following changes to the Fund’s investment program at a special shareholder meeting on October 25, 2023:</p>
+            <ul class="list-disc">
+                <li>To approve the New Investment Management Agreement between the Fund and Saba Capital Management, L.P.</li>
+                <li>To approve making the Fund’s investment objective "non-fundamental" to provide the Fund with greater investment flexibility.</li>
+                <li>The removal of the Fund’s fundamental policy mandating that at least 65% of the Fund’s total assets be invested in at least three countries and in various types of debt instruments.</li>
+            </ul>
+
+            <p><sup>6</sup>The Current Distribution Amount represents the amount approved by the Board of the Fund as part of a managed distribution plan. As part of the managed distribution plan, the Fund will make monthly distributions to shareholders at a fixed amount of <span class="distributionFootnote-SABA">-</span> per share. Thus, the distribution amount shown excludes special dividends (which are not paid pursuant to the plan), including the special dividend paid during the current fiscal period in December 2023. The Fund will generally distribute amounts necessary to satisfy the Fund’s plan and the requirements prescribed by excise tax rules and Subchapter M of the Internal Revenue Code. The plan is intended to provide shareholders with a constant, but not guaranteed, fixed minimum rate of distribution each month and is intended to narrow the discount between the market price and the net asset value of the Fund’s common shares, but there is no assurance that the plan will be successful in doing so.</p>
+
+            <p>Yield figures quoted should not be used as an indication of the income that has or will be received. Yield figures are based on the portfolio's underlying holdings and do not represent a payout of the portfolio.</p>
+
+            <p><sup>7</sup>The Current Annualized Distribution Rate is the dollar value of distributions for the current fiscal period November 1, 2023 through <span class="asofdateASNNAV--SABA"></span> (which includes the special dividend paid during the current fiscal period in December 2023) annualized as a percentage of the Fund’s NAV as of <span class="asofdateASNNAV--SABA"></span>. The distribution rate shown is not constant as the Fund’s NAV fluctuates regularly. In addition, the level of distribution amount shown is not guaranteed and special dividends may not be paid in the future.  Further, no conclusions should be drawn about the Fund’s investment performance from the amount or rate of distribution shown. A portion of the Fund’s distribution to shareholders may be a return of capital which should not be confused with “yield” or “income.” Please see the Fund’s most-recent Section 19a Notice press release found in the “Section 19a Notice” section of this website. <strong>Past Performance is No Assurance of Future Results.</strong></p>
+
+            <p class="margin-top-30"><strong>Important Risk Information</strong></p>
+
+            <p>Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing. </p>
+
+            <p><b>The Closed-End Funds are not sold or distributed.</b> Unlike open-end funds, shares are not continually offered. Like other public companies, closed-end funds have a one-time initial public offering, and once their shares are first issued, are generally bought and sold through non-affiliated broker/dealers and trade on nationally recognized stock exchanges. Share prices will fluctuate with market conditions and, at the time of sale, may be worth more or less than your original investment. Shares of exchange-traded closed-end funds may trade at a discount or premium to their original offering price, and often trade at a discount to their net asset value. Investment return, market price and net asset value will fluctuate with changes in market conditions.</p>
+
+            <p>Investing involves risk, including possible loss of principal. Past performance is not indicative or a guarantee of future results.</p>
+
+            <p>All investing involves risks of fluctuating prices and the uncertainties of rates of return and yield inherent in investing. Each fund invests primarily in credit instruments that carry a risk that borrowers may default in the timely payment of principal and interest on their debt, which would likely cause the value of the Funds’ Common Shares to decrease. Changes in short-term market interest rates will directly affect the yield on the Funds’ Common Shares. If such rates fall, the Funds’ yield will also fall. If interest rate spreads on the Funds’ credit investments decline in general, the yield on the Funds’ credit investments will fall and the value of the Funds’ credit investments may decrease. When short-term market interest rates rise, because of the lag between changes in such short term rates and the resetting of the floating rates on credit investments in the Funds’ portfolio, the impact of rising rates will be delayed to the extent of such lag. Because of the limited secondary market for a portion of the Funds’ investments, the Funds’ ability to sell some assets in a timely fashion and/or at a favorable price may be limited. An increase in the demand for credit investments may adversely affect the rate of interest payable on new credit investments acquired by the Funds, and it may also increase the price of credit investments purchased by the Funds in the secondary market. A decrease in the demand for credit investments may adversely affect the price of such investments in the Funds’ portfolio, which would cause the Funds’ NAV to decrease. The Funds’ use of leverage through borrowings, if any, can adversely affect the yield on the Funds’ Common Shares. Investment in foreign borrowers involves special risks, including potentially less rigorous accounting requirements, differing legal systems and potential political, social and economic adversity. The Funds may engage in currency exchange transactions that seeks to hedge some or all of the economic impact to the Funds arising from foreign currency fluctuations.</p>
+
+            <p>Investments in foreign securities may involve risks such as social and political instability, market illiquidity, exchange-rate fluctuations, a high level of volatility and limited regulation. Leverage may increase the risk of loss and cause fluctuations in the market value of the Funds’ portfolio to have disproportionately large effects or cause the NAV of the Funds generally to decline faster than it would otherwise. Derivatives may be more sensitive to changes in market conditions, amplifying risks. A liquid market may not exist for derivatives held by the Funds. High-yield bonds have a higher risk of default or other adverse credit events, but have the potential to pay higher earnings over investment grade bonds. The higher risk of default, or the inability of the creditor to repay its debt, is the primary reason for the higher interest rates on high-yield bonds. The Funds intend to be non-diversified and may be subject to concentration risk and outsized market risk within the industries that it invests.</p>
+
+            <p>Saba Capital Management, L.P. has been registered as an investment adviser under the Investment Advisers Act of 1940 since August 6, 2010</p>
+
+            <p><b>Investors should carefully consider the investment objectives, risks, charges and expenses of the funds. This and other important information about the Funds, such as information about the Funds’ updated investment program and principal risk factors, is contained in the definitive proxy statement, risk supplement, prospectus and statement of additional information. These documents should be read carefully before investing.</b></p>
+
+            <p>Reports and other information about the funds are available on the EDGAR Database on the SEC's Internet site at <a href="https://www.sec.gov/" target="_blank">www.sec.gov</a>.</p>
+
+            <p>©2024 SABA CAPITAL MANAGEMENT, L.P. All rights reserved.</p>
+        </div>
+    </div>
+
+</footer>
+
+<modalcontactwrapper>
+    <div id="modalOverlay">
+        <modal--contact>
+            <modal--close tabindex="0"><img src="assets/images/btn-close-white.svg" width="25px" height="25px" aria-label="Close Button" alt="Close Button" /></modal--close>
+            <modal--overflow-scroll>
+                <a href="../" class="site-logo--modal">
+                    <img src="assets/images/logo.svg" width="300" height="54" alt="Saba Capital">
+                </a>
+                <div grid="3-5">
+
+                    <div id="contactinfo-wrapper" class="grid-item-1">
+                       
+                    </div>
+
+
+                    <div id="footerFormWrapper" class="grid-item-2">
+                        <div id="mathError"></div>
+
+
+                        <!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Contact Form</title>
+	</head> 
+
+	<body>
+		<div id="root">
+			<strong class="alert-error" id="headerError"></strong>
+			<ul class="alert-error" id="messageError"></ul>
+			<div class="display-none" id="successMessage" >Thank you for your submission.</div>
+			<form id="contact-form">
+				<div>
+					<p class="disclosure">* Required Information</p>
+					<input class='display-none' type="text" id="form_name" name="form_name" />
+					<label for="first_name"><span class="required">* </span>First Name</label>
+					<input type="text"
+						id="first_name" 
+						name="first_name" 
+						pattern="[A-Za-záéíóúüñÁÉÍÓÚÜÑ ' \-]*"
+						title = "First name"
+						required>
+					<label for="last_name"><span class="required">* </span>Last Name</label>
+					<input type="text" 
+						id="last_name" 
+						name="last_name"  
+						pattern="[A-Za-záéíóúüñÁÉÍÓÚÜÑ ' \-]*"
+						title = "Last name"
+						required>
+					<label for="email"><span class="required">* </span>Email</label>
+					<input 
+						id="email" 
+						name="email" 
+						pattern="^[A-Za-z0-9_%+.\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,}$"
+						title = "Email"
+						required>
+					<label for="comments">Comments</label>
+					<textarea
+						id="comments"
+						class="form__comments"
+						name="comments"
+						placeholder="Comments"
+						title="Comments"
+						rows="5"
+						maxlength="300"></textarea>
+					<div class="form-actions">
+						<button type="submit">Send us a Message</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</body>
+
+</html>
+
+                    </div>
+
+                </div>
+            </modal--overflow-scroll>
+        </modal--contact>
+    </div>
+</modalcontactwrapper><div id="mobilemenu">
+
+	<div class="logoBarMobile">
+		<a href="../" class="mobileLogo__link"><img src="assets/images/logo-inverted.svg" width="300" height="54" alt="Saba Capital"></a>
+		<img src="assets/images/btn-close.svg" width="20" height="20" class="logoBarMobile__x" alt="Close" tabindex="0" aria-label="Close" />
+	</div>
+
+	<div class="mainNavMobile">
+
+		<mmh1 class="icon" tabindex="0">The Funds</mmh1>
+		<div id="mobileProductList" class="mainNavMobile__sub"></div>
+
+		<a href="https://www.sabacapital.com" target="_blank" class="mainNavMobile__link uppercase">The Adviser</a>
+
+		<mmh1 class="icon" tabindex="0">Resources</mmh1>
+		<div id="mobileResourceList" class="mainNavMobile__sub"></div>
+		
+		<mmh1 class="icon" tabindex="0">Contact Us</mmh1>
+		<div id="mobileContactList" class="mainNavMobile__sub"></div>
+		
+	</div>
+
+	
+	<collapseMenuButton>
+		<collapseArrow></collapseArrow>
+	</collapseMenuButton>
+
+</div>
+
+
+
+
+
+<script defer src="assets/javascript/jquery1-3.easing.min.js"></script>
+<script defer src="assets/javascript/external-sites-v1.0.1.min.js"></script>
+<script defer src="assets/javascript/table-overflow.js"></script>
+<script defer src="assets/javascript/dailyprice-v2.3.2.min.js"></script>
+<script defer src="assets/javascript/yield-v2.1.3.min.js"></script>
+<script defer src="assets/javascript/documents-v4.3.0.min.js"></script>
+<script defer src="assets/javascript/waypoints-header.js"></script>
+<script defer src="assets/javascript/settings__masthead.js"></script>
+<script defer src="assets/javascript/settings__footer.js"></script>
+<script defer src="assets/javascript/googleanalytics.js"></script>
+<script defer src="assets/javascript/settings__mobileNav.js"></script>
+<script defer src="assets/javascript/modal--contact.js"></script>
+    </body>
+
+</html>
